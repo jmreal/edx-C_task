@@ -32,4 +32,8 @@ Your version of the program must print the same result as the expected output.
 
 
 
+task 3 
+
+assign array from useer input
+
 
